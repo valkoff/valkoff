@@ -28,3 +28,5 @@ Feel free to reach out if you're interested in collaborating or just want to cha
 
 - LinkedIn: [https://www.linkedin.com/in/valerio-cofano/]
 - Email: [valecof@gmail.com]
+
+<a href="https://app.daily.dev/valkoff"><img src="https://api.daily.dev/devcards/v2/muccm3Rs4PPYX8kz9ZVce.png?type=default&r=wfz" width="356" alt="Valerio Cofano's Dev Card"/></a>
