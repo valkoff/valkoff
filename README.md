@@ -16,21 +16,15 @@
 
 I'm a passionate Software Engineer based in **Como, Italy** 🇮🇹, working in **Switzerland** 🇨🇭. I specialize in **full-stack development** with a strong focus on **back-end architecture**, translating complex business needs into robust, scalable solutions.
 
-```javascript
+``` typescript
 const valerio = {
     location: "Como, Italy 🇮🇹 → Switzerland 🇨🇭",
-    role: "Software Engineer",
+    role: "Lead Software Engineer",
     focus: ["Back-End Development", "Full-Stack Solutions", "Scalable Architecture"],
-    interests: ["Coding", "Personal Finance", "Continuous Learning"],
     currentlyLearning: ["Go", "Vue.js", "Domain Driven Design"],
     currentlyReading: "Clear Thinking by Shane Parrish 📚"
 };
 ```
-
-### 🎯 What I'm Up To
-
-- 👯 **Looking to Collaborate On:** Ambitious projects with real-world impact
-- 📚 **Currently Reading:** Deep Work (Cal Newport)
 
 ---
 
