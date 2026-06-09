@@ -2,11 +2,11 @@
 
 # 👋 Hello, I'm Valerio Cofano
 
-### Software Engineer | Full-Stack Developer | Back-End Specialist
+### Backend & Distributed Systems Engineer
 
-[![Website](https://img.shields.io/badge/🌐_Website-valkoff.dev-blue?style=for-the-badge)](https://valkoff.dev)
+[![Website](https://img.shields.io/badge/🌐_Website-valcof.com-blue?style=for-the-badge)](https://valcof.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valerio-cofano/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:valecof@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@valcof.com)
 
 </div>
 
@@ -14,14 +14,13 @@
 
 ## 🚀 About Me
 
-I'm a passionate Software Engineer based in **Como, Italy** 🇮🇹, working in **Switzerland** 🇨🇭. I specialize in **full-stack development** with a strong focus on **back-end architecture**, translating complex business needs into robust, scalable solutions.
+I'm a backend and distributed-systems engineer based in **Como, Italy** 🇮🇹, working in **Switzerland** 🇨🇭. I design and ship high-concurrency services, event-driven pipelines, and the architecture teams build on, for regulated, high-traffic platforms where downtime and data loss aren't options.
 
 ``` typescript
 const valerio = {
     location: "Como, Italy 🇮🇹 → Switzerland 🇨🇭",
-    role: "Lead Software Engineer",
-    focus: ["Back-End Development", "Full-Stack Solutions", "Scalable Architecture"],
-    currentlyLearning: ["Go", "Vue.js", "Domain Driven Design"],
+    role: "Backend & Distributed Systems Engineer",
+    focus: ["Distributed Systems", "High-Concurrency Backends", "Event-Driven Architecture"],
     currentlyReading: "Clear Thinking by Shane Parrish 📚"
 };
 ```
@@ -50,12 +49,12 @@ const valerio = {
 
 ## 🤝 Let's Connect
 
-I'm always interested in collaborating on ambitious projects or just having a chat about technology, development, or personal finance!
+I'm always interested in talking about ambitious backend and distributed-systems work, or just technology, engineering, and personal finance.
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/🌐_valkoff.dev-Visit_My_Website-0A66C2?style=for-the-badge)](https://valkoff.dev)
+[![Website](https://img.shields.io/badge/🌐_valcof.com-Visit_My_Website-0A66C2?style=for-the-badge)](https://valcof.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valerio-cofano/)
-[![Email](https://img.shields.io/badge/Email-valecof@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:valecof@gmail.com)
+[![Email](https://img.shields.io/badge/Email-hello@valcof.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@valcof.com)
 
 </div>
