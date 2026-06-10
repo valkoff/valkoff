@@ -14,16 +14,24 @@
 
 ## 🚀 About Me
 
-I'm a backend and distributed-systems engineer based in **Como, Italy** 🇮🇹, working in **Switzerland** 🇨🇭. I design and ship high-concurrency services, event-driven pipelines, and the architecture teams build on, for regulated, high-traffic platforms where downtime and data loss aren't options.
+I'm a backend and distributed-systems engineer. I design and ship high-concurrency services, event-driven pipelines, and the architecture teams build on — for regulated Swiss platforms and high-traffic global marketplaces where downtime and data loss aren't options.
 
 ``` typescript
 const valerio = {
-    location: "Como, Italy 🇮🇹 → Switzerland 🇨🇭",
     role: "Backend & Distributed Systems Engineer",
     focus: ["Distributed Systems", "High-Concurrency Backends", "Event-Driven Architecture"],
+    domains: ["regulated & clinical-grade", "high-traffic marketplaces"],
     currentlyReading: "Clear Thinking by Shane Parrish 📚"
 };
 ```
+
+---
+
+## 🔨 Building
+
+**[ferry](https://github.com/valkoff/ferry)** — a dependency-free Go library for idempotent, durable processing of at-least-once events and webhooks: effectively-once handlers, leases, retries, dead-lettering and replay. The pattern behind "a retry must never double-charge a customer", distilled into a small reusable core.
+
+**[Easy Cantieri](https://www.easycantieri.com)** — a multi-tenant SaaS for Swiss construction tradespeople: quotes and invoices with native Swiss QR-bill, PDF generation, and strict per-tenant isolation. I own every layer, from schema and auth to deployment and observability.
 
 ---
 
